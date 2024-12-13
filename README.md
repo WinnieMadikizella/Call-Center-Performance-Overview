@@ -1,1 +1,3 @@
 # Call-Center-Performance-Overview
+
+This Power BI dashboard provides a comprehensive analysis of key performance metrics for a call center, focusing on efficiency, customer satisfaction, and agent performance. The dashboard visualizes important KPIs such as average call handling time, first call resolution rate, customer satisfaction scores, and agent productivity. It also highlights trends in call volume, service levels, and response times, enabling management to assess operational efficiency. The report includes detailed insights into agent performance, showcasing individual contributions and areas for improvement, as well as providing a clear overview of the call center's overall effectiveness in meeting service goals.
